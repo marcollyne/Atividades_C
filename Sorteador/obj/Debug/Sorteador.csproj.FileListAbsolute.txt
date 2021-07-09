@@ -1,0 +1,12 @@
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\bin\Debug\Sorteador.exe.config
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\bin\Debug\Sorteador.exe
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\bin\Debug\Sorteador.pdb
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.AssemblyReference.cache
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.Form2.resources
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.Properties.Resources.resources
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.GenerateResource.cache
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.csproj.CoreCompileInputs.cache
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.exe
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.pdb
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.Form3.resources
+I:\IFPR\2021\Tópicos Especiais em Tecnologia da Informação\VisualStudio codes\Sorteador\Sorteador\obj\Debug\Sorteador.Principal.resources
